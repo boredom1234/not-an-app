@@ -35,7 +35,7 @@ This simple text editor application built in Python using the Tkinter library al
 3. Set up Google GenerativeAI:
 
     - Get an API key from [Google GenerativeAI](https://makersuite.google.com/).
-    - Replace `'YOUR-API-KEY'` in `notepad.py` with your API key.
+    - Replace `'YOUR-API-KEY'` in `main.py` with your API key.
 
 ## Usage
 
